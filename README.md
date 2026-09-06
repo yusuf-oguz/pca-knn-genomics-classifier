@@ -13,6 +13,8 @@
 
 </details>
 
+---
+
 A pipeline that predicts human genetic population ancestry from raw SNP (Single Nucleotide Polymorphism) data, using PCA and k-NN classification built entirely from scratch.
 
 ## Problem
