@@ -47,7 +47,7 @@ Cutting 5000 raw SNPs down to just 20 still left the four populations visually w
 ```
 pca-knn-genomics-classifier/
 ├── PCA-Based_Ancestry_Analysis_via_SNPs.pdf   The original problem statement (not my own work)
-└── source_code/.../
+└── source_code/
     ├── main.ipynb           The end-to-end pipeline: load, PCA, scoring, classification
     ├── src/                  Modular source code
     │   ├── io_utils.py          Data loading
